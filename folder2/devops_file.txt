@@ -1,1 +1,4 @@
 Devops file for testing
+
+GitHub is a code hosting platform for collaboration
+and version control
